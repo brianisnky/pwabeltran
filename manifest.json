@@ -1,0 +1,15 @@
+{
+ "short_name": "pwabeltran",
+ "name": "Ejemplo de PWA",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "red",
+ "theme_color": "black",
+ "icons": [
+   {
+     "src": "https://alezzu.web.app/img/logo.jpeg",
+     "sizes": "1024x1024",
+     "type": "image/jpeg"
+   }
+ ]
+}
